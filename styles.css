@@ -50,7 +50,7 @@ body {
 .element:hover {
   width: 250px;
   height: 260px;
-  background-image: url('/images/env.png');
+  background-image: url('/images/envelope.png');
   cursor: pointer;
   top: -575px;
 }
